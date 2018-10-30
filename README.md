@@ -1,5 +1,5 @@
 # sergivb01
-This is my very own personal website where I frequently commit changes. Here you may find my portofolio, my skills and a short about-me text. Here are some of the stuff I've used:
+This is my very own personal website, where I frequently commit changes. Here you may find my portofolio, my skills and a short About-me text. Here are some of the stuff I've used:
 
   - HTML5
   - Javascript (+few jQuery)
